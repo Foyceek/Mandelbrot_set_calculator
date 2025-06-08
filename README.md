@@ -1,1 +1,1 @@
-# Mandelbrot_set_calculator
+# Mandelbrot set calculator
